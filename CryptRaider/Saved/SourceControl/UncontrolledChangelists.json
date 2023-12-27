@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/Dungeon.umap"
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/Dungeon.umap",
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/BP_Torch_Dungeon.uasset",
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/BP_Chandalier_Dungeon.uasset"
 			]
 		}
 	]
