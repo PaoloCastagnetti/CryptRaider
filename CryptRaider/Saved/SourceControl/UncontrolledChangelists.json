@@ -8,7 +8,11 @@
 				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/Dungeon.umap",
 				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/MedievalDungeon/Materials/M_Tiling_Master.uasset",
 				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/BP_Torch_Dungeon.uasset",
-				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/BP_Chandalier_Dungeon.uasset"
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/BP_Chandalier_Dungeon.uasset",
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset",
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/FirstPerson/Blueprints/BP_Player.uasset",
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/BP_Player.uasset",
+				"C:/Users/Paolo/Documents/Projects/Unreal/CryptRaider/CryptRaider/Content/BP_CryptRaiderGameMode.uasset"
 			]
 		}
 	]
